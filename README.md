@@ -1,6 +1,6 @@
 # Applying Random Forest and XGBoost Machine Learning Algorithms to Understand Galaxy Quenching
 
-A repository of work done in preparation for a forthcoming paper.
+A repository of work done in preparation for a forthcoming paper. The code in this repository was developed by Bryanne McDonough, Ansa Brew-Smith, and Sathvika Iyengar.
 
 
 The `classification_revised` directory contains the random forest and XGBoost classification analyses. The `regression_revised` directory contains the random forest and XGBoost regression analyses. The models for each galaxy subset are included in individual files within the relevant directories. 
