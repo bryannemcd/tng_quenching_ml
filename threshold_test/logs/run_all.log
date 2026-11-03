@@ -1,0 +1,9 @@
+2026-11-03 10:48:13 start: 1 thresholds x 1 notebooks
+2026-11-03 11:08:45 ok     m2.4 classification_revised\rf_classification_annuli\all_centrals_rf_annuli_halo.ipynb (20.5 min)
+2026-11-03 11:08:45 done
+2026-11-03 11:09:14 start: 7 thresholds x 12 notebooks
+2026-11-03 11:12:18 ok     m2.4 classification_revised\rf_classification_annuli\hms_rf_annuli_halo.ipynb (3.1 min)
+2026-11-03 11:14:17 ok     m2.4 classification_revised\rf_classification_annuli\lms_rf_annuli_halo.ipynb (2.0 min)
+2026-11-03 11:16:02 ok     m2.4 classification_revised\xg_classification_annuli\all_centrals_xg_classification_halo.ipynb (1.7 min)
+2026-11-03 11:16:46 ok     m2.4 classification_revised\xg_classification_annuli\hms_xg_clf_annuli_halo.ipynb (0.7 min)
+2026-11-03 11:17:13 ok     m2.4 classification_revised\xg_classification_annuli\lms_xg_clf_annul_halo.ipynb (0.5 min)
