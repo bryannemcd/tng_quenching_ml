@@ -1,0 +1,13 @@
+task,model,sample,baseline order,kept for T >= -2.4,differs (in range),differs (stricter)
+classification,rf,all_centrals,ILE,7/7,-,"-2.6 (LIE, gap 0.08), -2.8 (LIE, gap 0.07)"
+classification,rf,hms,ILE,7/7,-,"-2.6 (LIE, gap 0.29), -2.8 (LEI, gap 0.00)"
+classification,rf,lms,EIL,7/7,-,"-2.8 (LEI, gap 0.22)"
+classification,xg,all_centrals,ILE,7/7,-,"-2.8 (LIE, gap 0.07)"
+classification,xg,hms,ILE,7/7,-,"-2.6 (LIE, gap 0.24), -2.8 (LEI, gap 0.04)"
+classification,xg,lms,EIL,7/7,-,"-2.8 (LEI, gap 0.02)"
+regression,rf,all_centrals,LIE,7/7,-,-
+regression,rf,hms,LIE,7/7,-,"-2.6 (ILE, gap 0.09)"
+regression,rf,lms,LIE,6/7,"-1.4 (LEI, gap 0.00)","-2.6 (LEI, gap 0.03), -2.8 (LEI, gap 0.23)"
+regression,xg,all_centrals,LIE,7/7,-,-
+regression,xg,hms,LIE,7/7,-,"-2.6 (ILE, gap 0.05)"
+regression,xg,lms,LIE,7/7,-,"-2.6 (LEI, gap 0.02), -2.8 (LEI, gap 0.03)"

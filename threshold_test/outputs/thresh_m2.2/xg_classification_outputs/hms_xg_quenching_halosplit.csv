@@ -1,0 +1,7 @@
+Feature,Mean Importance,Std Dev
+BHMass,0.35500273,0.021541951
+s_mass,0.24726248,0.034135923
+avg_s_mass,0.24022134,0.031228786
+Mhalo,0.096266255,0.03741692
+bin_radii,0.061247222,0.04123567
+overdens,0.0,0.0

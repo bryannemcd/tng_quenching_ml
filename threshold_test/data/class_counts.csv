@@ -2,6 +2,8 @@ threshold,sample,n,n_quenched,frac_quenched
 -1.1,low_mass_central,21677,6745,0.311
 -1.4,low_mass_central,21677,5174,0.239
 -1.9,low_mass_central,21677,3949,0.182
+-2.0,low_mass_central,21677,3805,0.176
+-2.1,low_mass_central,21677,3681,0.17
 -2.2,low_mass_central,21677,3563,0.164
 -2.4,low_mass_central,21677,3370,0.155
 -2.6,low_mass_central,21677,3105,0.143
@@ -9,6 +11,8 @@ threshold,sample,n,n_quenched,frac_quenched
 -1.1,high_mass_central,26899,19007,0.707
 -1.4,high_mass_central,26899,17265,0.642
 -1.9,high_mass_central,26899,14940,0.555
+-2.0,high_mass_central,26899,14520,0.54
+-2.1,high_mass_central,26899,14137,0.526
 -2.2,high_mass_central,26899,13801,0.513
 -2.4,high_mass_central,26899,12253,0.456
 -2.6,high_mass_central,26899,8677,0.323
@@ -16,6 +20,8 @@ threshold,sample,n,n_quenched,frac_quenched
 -1.1,low_mass_satellite,5831,2589,0.444
 -1.4,low_mass_satellite,5831,2264,0.388
 -1.9,low_mass_satellite,5831,2003,0.344
+-2.0,low_mass_satellite,5831,1964,0.337
+-2.1,low_mass_satellite,5831,1930,0.331
 -2.2,low_mass_satellite,5831,1909,0.327
 -2.4,low_mass_satellite,5831,1867,0.32
 -2.6,low_mass_satellite,5831,1741,0.299
@@ -23,6 +29,8 @@ threshold,sample,n,n_quenched,frac_quenched
 -1.1,high_mass_satellite,8675,6485,0.748
 -1.4,high_mass_satellite,8675,5959,0.687
 -1.9,high_mass_satellite,8675,5352,0.617
+-2.0,high_mass_satellite,8675,5259,0.606
+-2.1,high_mass_satellite,8675,5159,0.595
 -2.2,high_mass_satellite,8675,5059,0.583
 -2.4,high_mass_satellite,8675,4493,0.518
 -2.6,high_mass_satellite,8675,2959,0.341

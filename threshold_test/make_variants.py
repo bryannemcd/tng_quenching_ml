@@ -14,7 +14,7 @@ INTERCEPT = -7.571978869402589
 BASELINE = -2.4
 # -1.1 is Bluck's quenched criterion. Cuts below ~-2.8 are degenerate: the
 # resolution-floor peak of the delta distribution spans -3.3..-2.2 dex.
-THRESHOLDS = [-1.1, -1.4, -1.9, -2.2, -2.4, -2.6, -2.8]
+THRESHOLDS = [-1.1, -1.4, -1.9, -2.0, -2.1, -2.2, -2.4, -2.6, -2.8]   # -2.0/-2.1 added to bracket the KDE/GMM valley (~ -2.1)
 SAMPLES = ['low_mass_central', 'high_mass_central', 'low_mass_satellite', 'high_mass_satellite']
 
 HERE = os.path.dirname(os.path.abspath(__file__))
